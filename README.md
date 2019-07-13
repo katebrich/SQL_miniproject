@@ -1,2 +1,4 @@
-# SQL_miniproject
-Dog shelter evidence
+# SQL miniproject
+## Dog shelter evidence
+
+Scripts for Oracle SQL Developer.
